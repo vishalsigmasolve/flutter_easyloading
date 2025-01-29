@@ -1,10 +1,9 @@
 name: flutter_easyloading
 description: Easy Loading
-version: 1.0.0
-homepage: https://github.com/vishalsigmasolve/flutter_easyloading
+version: 1.0.1
 
 environment:
-  sdk: 3.6.0
+  sdk: 3.6.1
 
 dependencies:
   flutter:
