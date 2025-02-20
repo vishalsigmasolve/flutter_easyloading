@@ -1,16 +1,16 @@
 name: flutter_easyloading
 description: Easy Loading
-version: 1.0.1
+version: 1.0.2
 
 environment:
-  sdk: 3.6.1
+  sdk: 3.7.0
 
 dependencies:
   flutter:
     sdk: flutter
 
   flutter_spinkit: ^5.2.1
-  back_button_interceptor: ^8.0.3
+  back_button_interceptor: ^8.0.4
 
 dev_dependencies:
   flutter_test:
