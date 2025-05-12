@@ -1,6 +1,6 @@
 name: flutter_easyloading
 description: Easy Loading
-version: 1.0.2
+version: 1.0.3
 
 environment:
   sdk: 3.7.2
